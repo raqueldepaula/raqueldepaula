@@ -7,8 +7,8 @@ Formada em **Marketing** e pós-graduanda em **Branding e Comunicação Digital*
 ---
 
 ## 🛠️ Habilidades & Competências
-* **Tráfego Pago:** Gestão de campanhas (Facebook Ads, Google Ads, TikTok Ads, Kwai Ads).
 * **Social Media & Criativos:** Produção de conteúdo, análise de métricas de engajamento e design (Canva/Photoshop).
+* **Tráfego Pago:** Gestão de campanhas (Facebook Ads, Google Ads, TikTok Ads, Kwai Ads).
 * **Inbound & Automação:** Criação de fluxos de e-mail marketing (RD Station, Mailchimp, HubSpot).
 
 ## 💼 Experiência Profissional
