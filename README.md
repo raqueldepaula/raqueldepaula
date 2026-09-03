@@ -2,7 +2,7 @@
 
 Formada em **Marketing** e pós-graduanda em **Branding e Comunicação Digital**. 
 
-📄 [Clique aqui para visualizar o meu Portfólio em PDF](https://github.com/raqueldepaula/raqueldepaula/blob/main/Portif%C3%B3lio%20Raquel%20de%20Paula%20.pdf)
+📄 📄 [Clique aqui para visualizar o meu Portfólio em PDF]([COLE_AQUI_O_LINK_DO_SEU_PDF](https://github.com/raqueldepaula/raqueldepaula/blob/main/Portif%C3%B3lio%20Raquel%20de%20Paula%20.pdf)) 
 
 ---
 
