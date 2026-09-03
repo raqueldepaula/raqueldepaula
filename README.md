@@ -1,4 +1,4 @@
- Olá, eu sou a Raquel de Paula! 👋
+# Olá, eu sou a Raquel de Paula! 👋
 
 Formada em **Marketing** e pós-graduanda em **Branding e Comunicação Digital**. 
 
